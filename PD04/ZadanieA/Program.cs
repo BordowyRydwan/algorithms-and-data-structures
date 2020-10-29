@@ -12,7 +12,7 @@ namespace ZadanieA
 
         //Przy wykonywaniu zadania A przypadkowo opracowałem algorytm działający identycznie do tego algorytmu z zadania C.
         //Różnił się wyłącznie tym, że pivot był losowym indeksem tablicy, a nie w połowie
-        //Dla porządku, projekt z zadaniem C zawiera ten sam kod, co w A
+        //Dla porządku, projekt z zadaniem C zawiera podobny kod, co w A
 
         static int MojPodzial(int[] T, int l, int p, int pivot)
         {

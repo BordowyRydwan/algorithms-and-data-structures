@@ -1,0 +1,7 @@
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD04\ZadanieB\bin\Debug\ZadanieB.exe.config
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD04\ZadanieB\bin\Debug\ZadanieB.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD04\ZadanieB\bin\Debug\ZadanieB.pdb
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD04\ZadanieB\obj\Debug\ZadanieB.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD04\ZadanieB\obj\Debug\ZadanieB.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD04\ZadanieB\obj\Debug\ZadanieB.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD04\ZadanieB\obj\Debug\ZadanieB.pdb

@@ -14,7 +14,7 @@ namespace ZadanieC
         //Różnił się wyłącznie tym, że pivot był losowym indeksem tablicy, a nie w połowie
         //Dla porządku, projekt z zadaniem C zawiera podobny kod, co w A
 
-        static int MojPodzial(int[] T, int l, int p)
+        static int Podzial(int[] T, int l, int p)
         {
             int pivot = T[(l + p) / 2];
 
@@ -46,7 +46,7 @@ namespace ZadanieC
         static void QuickSort(int[] T, int l, int p)
         {
             if (l >= p) return;
-            int i = MojPodzial(T, l, p);
+            int i = Podzial(T, l, p);
             QuickSort(T, l, i - 1);
             QuickSort(T, i, p);
         }
