@@ -1,6 +1,6 @@
-# Algorithms and data structures
+![Algorithms and data structures](top_banner.png)
 
-This repository includes solutions for tasks given during "Algorithms and data structures" (with homeworks)
+This repository includes solutions for tasks given during "Algorithms and data structures"
 
 Currently done:
 * Chapter 1
