@@ -1,0 +1,7 @@
+A:\Projekty\algorithms-and-data-structures\Nowy folder\PD05\Zadanie2\bin\Debug\Zadanie2.exe.config
+A:\Projekty\algorithms-and-data-structures\Nowy folder\PD05\Zadanie2\bin\Debug\Zadanie2.exe
+A:\Projekty\algorithms-and-data-structures\Nowy folder\PD05\Zadanie2\bin\Debug\Zadanie2.pdb
+A:\Projekty\algorithms-and-data-structures\Nowy folder\PD05\Zadanie2\obj\Debug\Zadanie2.csprojAssemblyReference.cache
+A:\Projekty\algorithms-and-data-structures\Nowy folder\PD05\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+A:\Projekty\algorithms-and-data-structures\Nowy folder\PD05\Zadanie2\obj\Debug\Zadanie2.exe
+A:\Projekty\algorithms-and-data-structures\Nowy folder\PD05\Zadanie2\obj\Debug\Zadanie2.pdb
