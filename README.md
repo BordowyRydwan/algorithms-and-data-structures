@@ -1,4 +1,4 @@
-![Algorithms and data structures](top_banner.jpg)
+![Algorithms and data structures](top_banner.png)
 
 This repository includes solutions for tasks given during "Algorithms and data structures"
 
