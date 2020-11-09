@@ -1,0 +1,7 @@
+C:\Users\Dawid\Desktop\Uczelnia\aids\LAB06\PD_Zad2\bin\Debug\PD_Zad2.exe.config
+C:\Users\Dawid\Desktop\Uczelnia\aids\LAB06\PD_Zad2\bin\Debug\PD_Zad2.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\LAB06\PD_Zad2\bin\Debug\PD_Zad2.pdb
+C:\Users\Dawid\Desktop\Uczelnia\aids\LAB06\PD_Zad2\obj\Debug\PD_Zad2.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\LAB06\PD_Zad2\obj\Debug\PD_Zad2.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\LAB06\PD_Zad2\obj\Debug\PD_Zad2.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\LAB06\PD_Zad2\obj\Debug\PD_Zad2.pdb
