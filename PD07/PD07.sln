@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie1", "Zadanie1\Zadanie1.csproj", "{A3F97DC2-93C8-42F4-9437-57D15BC608AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{CBA64210-CD65-46E2-98AE-5D1BCF6684DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie3", "Zadanie3\Zadanie3.csproj", "{4149F2FE-F529-4B9D-A3F8-103DB39ED8C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F97DC2-93C8-42F4-9437-57D15BC608AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F97DC2-93C8-42F4-9437-57D15BC608AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F97DC2-93C8-42F4-9437-57D15BC608AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F97DC2-93C8-42F4-9437-57D15BC608AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA64210-CD65-46E2-98AE-5D1BCF6684DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA64210-CD65-46E2-98AE-5D1BCF6684DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA64210-CD65-46E2-98AE-5D1BCF6684DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA64210-CD65-46E2-98AE-5D1BCF6684DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4149F2FE-F529-4B9D-A3F8-103DB39ED8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4149F2FE-F529-4B9D-A3F8-103DB39ED8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4149F2FE-F529-4B9D-A3F8-103DB39ED8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4149F2FE-F529-4B9D-A3F8-103DB39ED8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93F602FA-2D64-47AE-BC2A-1EA94B213EC6}
+	EndGlobalSection
+EndGlobal
