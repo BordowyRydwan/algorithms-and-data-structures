@@ -16,3 +16,11 @@ Good luck!
 * Chapter 5
 * Chapter 6
 * Chapter 7
+
+## FAQ
+
+**Q: Why are you writing all this stuff in English when we're in Poland at Polish university?**
+A: Well, it's hard to find a job in PL if you don't write in English
+
+**Q: Why did you make a repo of crappy uni tasks?**
+A: To help people.
