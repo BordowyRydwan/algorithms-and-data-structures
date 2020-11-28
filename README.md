@@ -8,6 +8,8 @@ Solutions are written with Microsoft Visual Studio 2017 environment. You can sim
 
 Good luck!
 
+Link to Polish README: [HERE](README_PL.md)
+
 ## Currently done:
 * Chapter 1
 * Chapter 2
@@ -16,6 +18,8 @@ Good luck!
 * Chapter 5
 * Chapter 6
 * Chapter 7
+* Test 1
+* Chapter 9
 
 ## FAQ
 
