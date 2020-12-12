@@ -1,0 +1,6 @@
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie8LAB\bin\Debug\Zadanie8LAB.exe.config
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie8LAB\bin\Debug\Zadanie8LAB.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie8LAB\bin\Debug\Zadanie8LAB.pdb
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie8LAB\obj\Debug\Zadanie8LAB.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie8LAB\obj\Debug\Zadanie8LAB.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie8LAB\obj\Debug\Zadanie8LAB.pdb

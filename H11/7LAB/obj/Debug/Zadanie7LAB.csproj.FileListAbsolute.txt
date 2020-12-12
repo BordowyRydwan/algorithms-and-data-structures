@@ -1,0 +1,7 @@
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie7LAB\bin\Debug\Zadanie7LAB.exe.config
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie7LAB\bin\Debug\Zadanie7LAB.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie7LAB\bin\Debug\Zadanie7LAB.pdb
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie7LAB\obj\Debug\Zadanie7LAB.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie7LAB\obj\Debug\Zadanie7LAB.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie7LAB\obj\Debug\Zadanie7LAB.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD11\Zadanie7LAB\obj\Debug\Zadanie7LAB.pdb
