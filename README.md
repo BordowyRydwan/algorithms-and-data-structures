@@ -20,6 +20,8 @@ Link to Polish README: [HERE](README_PL.md)
 * Chapter 7
 * Test 1
 * Chapter 9
+* Chapter 10
+* Chapter 11
 
 ## FAQ
 

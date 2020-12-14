@@ -18,6 +18,8 @@ Powodzenia!
 * Praca domowa 7
 * Kolokwium 1
 * Praca domowa 9
+* Praca domowa 10
+* Praca domowa 11
 
 ## FAQ
 
