@@ -1,0 +1,7 @@
+A:\Studia\aids\PD13\Zadanie6LAB\bin\Debug\Zadanie6LAB.exe.config
+A:\Studia\aids\PD13\Zadanie6LAB\bin\Debug\Zadanie6LAB.exe
+A:\Studia\aids\PD13\Zadanie6LAB\bin\Debug\Zadanie6LAB.pdb
+A:\Studia\aids\PD13\Zadanie6LAB\obj\Debug\Zadanie6LAB.csprojAssemblyReference.cache
+A:\Studia\aids\PD13\Zadanie6LAB\obj\Debug\Zadanie6LAB.csproj.CoreCompileInputs.cache
+A:\Studia\aids\PD13\Zadanie6LAB\obj\Debug\Zadanie6LAB.exe
+A:\Studia\aids\PD13\Zadanie6LAB\obj\Debug\Zadanie6LAB.pdb

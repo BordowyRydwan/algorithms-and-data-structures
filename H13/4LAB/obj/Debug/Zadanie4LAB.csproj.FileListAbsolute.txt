@@ -1,0 +1,7 @@
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD13\Zadanie4LAB\bin\Debug\Zadanie4LAB.exe.config
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD13\Zadanie4LAB\bin\Debug\Zadanie4LAB.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD13\Zadanie4LAB\bin\Debug\Zadanie4LAB.pdb
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD13\Zadanie4LAB\obj\Debug\Zadanie4LAB.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD13\Zadanie4LAB\obj\Debug\Zadanie4LAB.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD13\Zadanie4LAB\obj\Debug\Zadanie4LAB.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\PD13\Zadanie4LAB\obj\Debug\Zadanie4LAB.pdb
