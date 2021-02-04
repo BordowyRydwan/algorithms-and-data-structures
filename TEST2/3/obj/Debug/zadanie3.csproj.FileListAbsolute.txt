@@ -1,0 +1,7 @@
+C:\Users\Dawid\Desktop\Uczelnia\aids\Wijata_Dawid_KOLOKWIUM2\zadanie3\obj\Debug\zadanie3.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\Wijata_Dawid_KOLOKWIUM2\zadanie3\obj\Debug\zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Uczelnia\aids\Wijata_Dawid_KOLOKWIUM2\zadanie3\bin\Debug\zadanie3.exe.config
+C:\Users\Dawid\Desktop\Uczelnia\aids\Wijata_Dawid_KOLOKWIUM2\zadanie3\bin\Debug\zadanie3.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\Wijata_Dawid_KOLOKWIUM2\zadanie3\bin\Debug\zadanie3.pdb
+C:\Users\Dawid\Desktop\Uczelnia\aids\Wijata_Dawid_KOLOKWIUM2\zadanie3\obj\Debug\zadanie3.exe
+C:\Users\Dawid\Desktop\Uczelnia\aids\Wijata_Dawid_KOLOKWIUM2\zadanie3\obj\Debug\zadanie3.pdb
